@@ -1,20 +1,21 @@
-# Odin
+# Thor
 
 ![Ghost version](https://img.shields.io/badge/Ghost-0.7.x-brightgreen.svg?style=flat-square)
 [![Donate](https://img.shields.io/badge/donate-paypal-003087.svg?style=flat-square)](https://www.paypal.me/andreatarquini/5)
 
 > A simple theme for Ghost made for geeks, hackers and developers (forked from Casper).
 
-[<img src="http://i.imgur.com/SjCzgwp.jpg">]()
-
-***Do you like my theme?***  
-Some :coffee::coffee::coffee::coffee: offered with [Paypal](https://www.paypal.me/andreatarquini/5) are appreciated.
+I made some small but essential modifications. More changes to come, first of which will be to adapt to newer Casper.
 
 ## Intro
-**Odin** is a very simple fork of the Ghost default theme [Casper](https://github.com/TryGhost/Casper).
-As you know, Casper doesn't have some nice features very useful for developers such as syntax
-highlight, comments and big social sharing features. So I created this theme to fill the gap
-but keeping all the good and minimalistic features of Casper.
+**Thor** is a very simple fork of the Odin theme [Odin](https://github.com/h4t0n/odin)
+, which is a fork of Capser, the Ghost default theme [Casper](https://github.com/TryGhost/Casper).
+
+I, Douglas modified Andrea's Odin to fit my needs for a portfolio theme. More changes planned.
+
+Some key changes are that home page only displays featured posts, so you can curate your portfolio while still having other content elsewhere on the site.
+
+I also removed unnecessary sharing buttons like Gplus.
 
 
 
@@ -93,5 +94,5 @@ var social_link = {
 ## Copyright & License
 
 Released under the MIT License.  
-Copyright (c) 2016 [Andrea Tarquini](https://blog.h4t0n.com) aka [@h4ton](https://twitter.com/h4t0n)  
-Copyright (c) 2013-2015 Ghost Foundation (for Casper theme substantial portions of code)
+Copyright (c) 2018 [Douglas Hewitt](https://madebydouglas.com) [@madebydouglas](https://twitter.com/madebydouglas)  
+Copyright (c) 2013-2018 Ghost Foundation (for Casper theme substantial portions of code)
