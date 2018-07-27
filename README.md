@@ -8,8 +8,8 @@
 I made some small but essential modifications. More changes to come, first of which will be to adapt to newer Casper.
 
 ## Intro
-**Thor** is a very simple fork of the Odin theme [Odin](https://github.com/h4t0n/odin)
-, which is a fork of Capser, the Ghost default theme [Casper](https://github.com/TryGhost/Casper).
+**Thor** is a very simple fork of the [Odin](https://github.com/h4t0n/odin)
+theme, which is a fork of [Casper](https://github.com/TryGhost/Casper), the Ghost default theme.
 
 I, Douglas modified Andrea's Odin to fit my needs for a portfolio theme. More changes planned.
 
